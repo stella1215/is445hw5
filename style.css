@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+}
+
+.lists {
+    display: inline-block;
+    border: 2pt green solid;
+    width: 25%;
+    text-align: left;
+    padding: 8pt;
+}
